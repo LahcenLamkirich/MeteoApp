@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meto</string>
+    <string name="title_activity_maps">Meto</string>
+    <string name="action_settings">Settings</string>
+</resources>
